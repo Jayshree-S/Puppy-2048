@@ -1,6 +1,7 @@
 # PUPPY 2048
+You can play this game at https://jaysa1.github.io/Puppy-2048/
 
-Clone of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
+This project is a Clone of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
 Inspired from Udacity 2048 class (https://github.com/2048-class/2048)
 
