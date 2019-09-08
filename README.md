@@ -1,4 +1,7 @@
 # PUPPY 2048
+
+Puppy 2048 - A fun version of 2048 game. 
+
 You can play this game at https://jaysa1.github.io/Puppy-2048/
 
 This project is a Clone of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
